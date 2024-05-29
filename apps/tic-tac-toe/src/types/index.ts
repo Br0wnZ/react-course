@@ -15,3 +15,8 @@ export type BoardProps = {
 export type TurnProps = {
   turn: string
 }
+
+export type GameStatus = {
+  board: string[]
+  turn: string
+}
