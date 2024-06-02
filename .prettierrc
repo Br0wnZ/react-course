@@ -3,7 +3,7 @@
   "semi": false,
   "printWidth": 120,
   "tabWidth": 2,
-  "trailingComma": "all",
+  "trailingComma": "none",
   "arrowParens": "always",
   "htmlWhitespaceSensitivity": "ignore",
   "importOrderSeparation": true,
